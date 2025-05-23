@@ -1,0 +1,3 @@
+"""
+TifawAIne Backend - Application principale
+""" 
